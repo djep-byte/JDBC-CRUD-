@@ -4,7 +4,7 @@
 
 <img width="1264" height="932" alt="image" src="https://github.com/user-attachments/assets/dbbd54ba-c973-4b40-a11f-6e63e0ff2207" />
 
-Code SQL:
+## Code SQL:
 ```
 CREATE DATABASE perpustakaan;
 USE perpustakaan;
@@ -16,7 +16,7 @@ CREATE TABLE buku (
     tahun_terbit INT
 );
 ```
-Code Java
+## Code Java
 ```
 import java.sql.*;
 import java.util.Scanner;
